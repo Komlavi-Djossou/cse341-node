@@ -1,0 +1,26 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "cse-341 course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komlavi-Djossou/cse341-node.git"
+  },
+  "author": "Komlavi Djossou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Komlavi-Djossou/cse341-node/issues"
+  },
+  "homepage": "https://github.com/Komlavi-Djossou/cse341-node#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
