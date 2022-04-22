@@ -4,7 +4,7 @@
   "description": "cse-341 course",
   "main": "server.js",
   "engines": {
-    "node": "12.11.1g"
+    "node": "12.11.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
