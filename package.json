@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "cse-341 course",
   "main": "server.js",
+  "engines": {
+    "node": "12.11.1g"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
