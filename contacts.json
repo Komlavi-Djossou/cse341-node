@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Yawo", 
+        "lastName": " Agonde", 
+        "email": "agyber04@gmail.com",
+        "favoriteColor": "yellow", 
+        "birthday": "14/03/1993"
+},
+"contact2": {
+    "firstName": "Edmond", 
+    "lastName": " Allu", 
+    "email": "edmondallu01@gmail.com",
+    "favoriteColor": "yellow", 
+    "birthday": "20/11/1997"
+},
+"contact3": {
+    "firstName": "Justin", 
+    "lastName": " Dzossou", 
+    "email": "justindzos04@gmail.com",
+    "favoriteColor": "yellow", 
+    "birthday": "05/06/2000"
+    }
+}
