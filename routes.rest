@@ -1,2 +1,5 @@
  ###
-  GET http:mongodb://localhost:27017/user.contacts
+GET http://localhost:5000/contacts
+
+###
+GET http://localhost:5000/contacts/627ea067fd78ee6c067dc9d2
