@@ -3,3 +3,6 @@ GET http://localhost:5000/contacts
 
 ###
 GET http://localhost:5000/contacts/627ea067fd78ee6c067dc9d2
+
+###
+GET https://cse341-myfirst.herokuapp.com/contacts
