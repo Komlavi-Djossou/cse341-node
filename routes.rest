@@ -22,7 +22,7 @@ PUT http://localhost:5000/contacts/627ea067fd78ee6c067dc9d2 HTTP/1.1
 Content-Type: application/json
 
 {
-        "firstName": "Bernabe", 
+        "firstName": "Kodjo", 
         "lastName": " Agonde", 
         "email": "agyber04@gmail.com",
         "favoriteColor": "blue", 

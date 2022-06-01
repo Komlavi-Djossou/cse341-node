@@ -3,7 +3,7 @@ const swaggerAutogen = require('swagger-autogen')();
 const doc = {
   info: {
     title: 'My API',
-    description: 'Temple API'
+    description: 'Contact API'
   },
   host: 'localhost:5000',
   schemes: ['http']
@@ -11,6 +11,7 @@ const doc = {
 
 const outputFile = './swagger.json';
 const endpointsFiles = ['./routes/index.js'];
+// const endpointsFiles = ['./routes/contact.js'];
 
 // generate swagger.json
 swaggerAutogen(outputFile, endpointsFiles, doc);
